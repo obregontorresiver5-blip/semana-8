@@ -1,0 +1,4 @@
+uname -a: Muestra información del kernel, versión de Linux, arquitectura y nombre del sistema.
+whoami: Muestra el nombre del usuario actual que está usando la terminal.
+
+Es útil conocer la información del sistema cuando se administra un servidor porque permite identificar la versión de Linux instalada, detectar problemas de compatibilidad, verificar permisos del usuario y solucionar errores técnicos de forma rápida.

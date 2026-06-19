@@ -1,0 +1,6 @@
+Buenas prácticas para proteger datos y credenciales:
+1. Usar contraseñas largas, únicas y con símbolos
+2. No compartir credenciales por WhatsApp o correo
+3. Activar verificación en dos pasos siempre que se pueda
+4. Cerrar sesión en computadores públicos
+5. Mantener el sistema y apps actualizadas
