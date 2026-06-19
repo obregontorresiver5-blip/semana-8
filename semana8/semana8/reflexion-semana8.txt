@@ -1,0 +1,12 @@
+La seguridad digital es clave en plataformas comunitarias porque protege 
+los datos personales de todos los usuarios. Sin seguridad, hackers pueden 
+robar información o suplantar identidades.
+
+En procesos participativos se comparte mucha información, por eso usar 
+contraseñas fuertes y conexiones HTTPS evita filtraciones. 
+
+También es importante actualizar el software y no hacer clic en enlaces 
+sospechosos. Registrar accesos ayuda a detectar intrusos.
+
+Aprendí que proteger datos y credenciales es responsabilidad de todos, 
+no solo de los administradores. Así la comunidad confía en la plataforma.
